@@ -2,7 +2,7 @@
 
 This program makes predictions for 3 datasets by using an implementation of the K-means algorithm both from scratch and the sci-kit learn library. The K-means algorithm used in this program only works for k 3, 4, and 6 values. In addition, the visualization of the objective function also printed as output after the predictions.
 
-# Outputs provided K-Means from scratch algorithm for each dataset
+# Outputs provided by K-Means from scratch algorithm for each dataset
 
 Visualizations of datasets;
 
