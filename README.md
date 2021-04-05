@@ -16,7 +16,7 @@ Dataset 1, k = 3;
 
 <p align="center">
 <img width="300" alt="Ekran Resmi 2021-04-05 21 57 36" src="https://user-images.githubusercontent.com/52889449/113613526-092b7c80-965a-11eb-82a9-879ddae4126e.png">
-<img width="300" height="400" alt="Ekran Resmi 2021-04-05 21 57 47" src="https://user-images.githubusercontent.com/52889449/113613529-0a5ca980-965a-11eb-83e5-38207f59cdd7.png">
+<img width="300" height="320" alt="Ekran Resmi 2021-04-05 21 57 47" src="https://user-images.githubusercontent.com/52889449/113613529-0a5ca980-965a-11eb-83e5-38207f59cdd7.png">
 <img width="300" alt="Ekran Resmi 2021-04-05 21 58 01" src="https://user-images.githubusercontent.com/52889449/113613532-0af54000-965a-11eb-998e-a1866ff88551.png">
 </p>
 
