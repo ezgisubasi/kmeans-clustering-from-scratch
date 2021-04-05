@@ -61,8 +61,3 @@ K-Means by scikit-learn;
 <img width="300" alt="Ekran Resmi 2021-04-05 22 11 29" src="https://user-images.githubusercontent.com/52889449/113614982-f023cb00-965b-11eb-875b-c23a142d95e9.png">
 <img width="300" alt="Ekran Resmi 2021-04-05 22 11 42" src="https://user-images.githubusercontent.com/52889449/113614984-f1ed8e80-965b-11eb-997f-8c41b8e4b207.png">
 </p>
-
-
-
-
-
